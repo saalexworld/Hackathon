@@ -48,3 +48,6 @@ with open('dat.csv', 'w') as file:
     write = csv.writer(file)
     write.writerow(['title', 'price', 'image'])
 main()
+
+# lj,fdb
+# i87i8y78ui
